@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7e60dd2.css",
-    "main.js": "/static/js/main.496c7ade.js",
-    "static/js/787.7d29de91.chunk.js": "/static/js/787.7d29de91.chunk.js",
-    "index.html": "/index.html",
-    "main.e7e60dd2.css.map": "/static/css/main.e7e60dd2.css.map",
-    "main.496c7ade.js.map": "/static/js/main.496c7ade.js.map",
-    "787.7d29de91.chunk.js.map": "/static/js/787.7d29de91.chunk.js.map"
+    "main.css": "/reactNotesApp/static/css/main.e7e60dd2.css",
+    "main.js": "/reactNotesApp/static/js/main.8dd98e8c.js",
+    "static/js/787.7d29de91.chunk.js": "/reactNotesApp/static/js/787.7d29de91.chunk.js",
+    "index.html": "/reactNotesApp/index.html",
+    "main.e7e60dd2.css.map": "/reactNotesApp/static/css/main.e7e60dd2.css.map",
+    "main.8dd98e8c.js.map": "/reactNotesApp/static/js/main.8dd98e8c.js.map",
+    "787.7d29de91.chunk.js.map": "/reactNotesApp/static/js/787.7d29de91.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7e60dd2.css",
-    "static/js/main.496c7ade.js"
+    "static/js/main.8dd98e8c.js"
   ]
 }
